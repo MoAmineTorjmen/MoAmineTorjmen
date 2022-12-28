@@ -2,7 +2,7 @@
 <p >I am a software developer based in Tunisia <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="20"  /> , currently working for a company called "Discovery Informatique" . I have been in the industry since January 2020, and am always looking to learn and improve my skills 💪. Currently, I am learning ReactJs/React Native  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="18"  />, with the goal of becoming a React developer for both mobile :iphone: and web applications 🌐 . My passion for problem-solving and learning new technologies drives me to constantly strive for excellence in my work. 
 </p>
 
- 
+ <img align="right" width="350" src="man-dev-V2.png" />
  
   <p align="left">
       <a href="https://linkedin.com/in/torjmen-med-amine-562770176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torjmen-med-amine-562770176" height="20" width="20" /></a>
