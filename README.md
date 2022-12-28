@@ -1,5 +1,6 @@
 <h1  >Hi 👋, I'm Torjmen Mohamed Amine</h1> 
-<p  >I am a software developer based in Tunisia <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="20"  /> , currently working for a company called "Discovery Informatique" . I have been in the industry since January 2020, and am always looking to learn and improve my skills 💪. Currently, I am learning ReactJs/React Native  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="18"  />, with the goal of becoming a React developer for both mobile :iphone: and web applications 🌐 . My passion for problem-solving and learning new technologies drives me to constantly strive for excellence in my work. 
+<p >I am a software developer based in Tunisia <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" width="20"  /> , currently working for a company called "Discovery Informatique" . I have been in the industry since January 2020, and am always looking to learn and improve my skills 💪. Currently, I am learning ReactJs/React Native  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="18"  />, with the goal of becoming a React developer for both mobile :iphone: and web applications 🌐 . My passion for problem-solving and learning new technologies drives me to constantly strive for excellence in my work. 
+</p>
 
  
  
