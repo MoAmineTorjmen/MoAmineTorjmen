@@ -5,7 +5,7 @@
  <img align="right" width="350" src="man-dev-V2.png" />
  
   <p align="left">
-      <a href="https://linkedin.com/in/torjmen-med-amine-562770176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torjmen-med-amine-562770176" height="20" width="20" /></a>
+      <a href="https://www.linkedin.com/in/torjmen-med-amine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torjmen-med-amine-562770176" height="20" width="20" /></a>
       <a href="https://fb.com/torjmenmedamine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="torjmenmedamine" height="23" width="30" /></a>
       <a href="https://www.instagram.com/torjmen_med_amine/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="torjmenmedamine" height="25" width="25" /></a> 
  
